@@ -17,6 +17,7 @@
 - [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 - [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3)
+- [완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3)
 
 ## 백준
 
