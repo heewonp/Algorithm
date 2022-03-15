@@ -24,6 +24,7 @@
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3)
 - [완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3)
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3)
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 
 ## 백준
 
