@@ -28,6 +28,8 @@
 - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+- [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+
 
 ## 백준
 
