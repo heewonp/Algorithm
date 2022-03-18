@@ -11,6 +11,7 @@
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+- [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 
 ## 프로그래머스
 
