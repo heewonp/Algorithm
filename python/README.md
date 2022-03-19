@@ -12,6 +12,10 @@
 - [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+- [169. Majority Element](https://leetcode.com/problems/majority-element/)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## 프로그래머스
 
