@@ -16,6 +16,10 @@
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [268. Missing Number](https://leetcode.com/problems/missing-number/)
+- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [1436. Destination City](https://leetcode.com/problems/destination-city/)
+- [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
 
 ## 프로그래머스
 
