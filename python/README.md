@@ -20,7 +20,8 @@
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
 - [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
-
+- [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
+- [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
 ## 프로그래머스
 
 ### 푼문제
