@@ -40,6 +40,9 @@
 - [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+- [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
+- [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 
 
 ## 백준
