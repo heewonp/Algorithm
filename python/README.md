@@ -43,6 +43,8 @@
 - [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
 - [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 
 ## 백준
