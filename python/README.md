@@ -45,6 +45,7 @@
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+- [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
 
 ## 백준
