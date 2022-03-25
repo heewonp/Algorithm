@@ -46,8 +46,18 @@
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
 - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
-
-
+- [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+- [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
+- [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
+- [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
+- [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+- [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
+- [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
+- [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 ## 백준
 
 ### 푼문제
