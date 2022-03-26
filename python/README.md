@@ -23,6 +23,10 @@
 - [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 - [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+- [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+- [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+- [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 ## 프로그래머스
 
 ### 푼문제
@@ -58,6 +62,8 @@
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
 - [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
 - [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
+- [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+- [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 ## 백준
 
 ### 푼문제
