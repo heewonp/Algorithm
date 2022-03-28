@@ -30,6 +30,8 @@
 - [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 ## 프로그래머스
 
 ### 푼문제
@@ -67,6 +69,8 @@
 - [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 - [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 - [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 ## 백준
 
 ### 푼문제
