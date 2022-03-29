@@ -71,6 +71,9 @@
 - [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+
+
 ## 백준
 
 ### 푼문제
