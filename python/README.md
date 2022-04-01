@@ -75,6 +75,7 @@
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+- [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 
 
 ## 백준
