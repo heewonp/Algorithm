@@ -35,6 +35,7 @@
 - [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 ## 프로그래머스
 
 ### 푼문제
