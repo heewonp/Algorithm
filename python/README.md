@@ -82,6 +82,7 @@
 - [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 
 ## 백준
 
