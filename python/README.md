@@ -38,6 +38,8 @@
 - [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 ## 프로그래머스
 
 ### 푼문제
