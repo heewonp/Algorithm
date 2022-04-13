@@ -87,6 +87,7 @@
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+- [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 
 ## 백준
 
