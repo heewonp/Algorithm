@@ -88,7 +88,7 @@
 - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
-
+- [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 ## 백준
 
 ### 푼문제
