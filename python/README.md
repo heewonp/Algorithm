@@ -40,6 +40,7 @@
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 ## 프로그래머스
 
 ### 푼문제
@@ -89,7 +90,7 @@
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 - [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
-
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 
 ## 백준
 
@@ -97,3 +98,5 @@
 
 - [1753. 최단경로](https://www.acmicpc.net/problem/1753)
 - [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+- [10871. X보다 작은 수](https://www.acmicpc.net/problem/10871)
+- [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
