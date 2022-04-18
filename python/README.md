@@ -102,3 +102,4 @@
 - [1110. 더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [1717. 집합의 표현](https://www.acmicpc.net/problem/1717)
 - [1976. 여행 가자](https://www.acmicpc.net/problem/1976)
+- [1922. 네트워크 연결](https://www.acmicpc.net/problem/1922)
