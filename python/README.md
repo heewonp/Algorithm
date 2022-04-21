@@ -91,6 +91,7 @@
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 - [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+- [크레인 인형뽑기 게임]()
 
 ## 백준
 
