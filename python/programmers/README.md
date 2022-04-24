@@ -49,3 +49,4 @@
 - [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
