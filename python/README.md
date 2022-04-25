@@ -41,6 +41,7 @@
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+- [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 ## 프로그래머스
 
 ### 푼문제
