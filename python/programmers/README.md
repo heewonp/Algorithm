@@ -50,3 +50,4 @@
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
