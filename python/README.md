@@ -100,6 +100,7 @@
 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 - [소수 찾기 level2](https://programmers.co.kr/learn/courses/30/lessons/42839)
+- [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 ## 백준
 
