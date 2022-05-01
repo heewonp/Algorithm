@@ -101,6 +101,8 @@
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
 - [소수 찾기 level2](https://programmers.co.kr/learn/courses/30/lessons/42839)
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+- [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+- [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
 ## 백준
 
