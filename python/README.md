@@ -44,6 +44,7 @@
 - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
+- [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 ## 프로그래머스
 
 ### 푼문제
@@ -103,6 +104,7 @@
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+- [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 
 ## 백준
 
