@@ -57,3 +57,4 @@
 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 - [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
