@@ -107,6 +107,7 @@
 - [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 - [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 ## 백준
 
