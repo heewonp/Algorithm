@@ -46,6 +46,7 @@
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
 - [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
+- [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
 ## 프로그래머스
 
 ### 푼문제
@@ -110,6 +111,7 @@
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 
 ## 백준
 
