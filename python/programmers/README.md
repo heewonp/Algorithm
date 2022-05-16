@@ -60,3 +60,4 @@
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+- [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
