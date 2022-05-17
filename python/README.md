@@ -120,6 +120,7 @@
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 - [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
+- [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 
 ## 백준
 
