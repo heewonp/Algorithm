@@ -140,3 +140,6 @@
 - [2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [18312. 시각](https://www.acmicpc.net/problem/18312)
 - [1260. DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [2606. 바이러스](https://www.acmicpc.net/problem/2606)
+- [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)
