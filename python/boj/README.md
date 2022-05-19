@@ -16,3 +16,4 @@
 - [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [2606. 바이러스](https://www.acmicpc.net/problem/2606)
 - [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+- [18406. 럭키 스트레이트](https://www.acmicpc.net/problem/18406)
