@@ -19,3 +19,5 @@
 - [18406. 럭키 스트레이트](https://www.acmicpc.net/problem/18406)
 - [2644. 촌수계산](https://www.acmicpc.net/problem/2644)
 - [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [7569. 토마토](https://www.acmicpc.net/problem/7569)
+- [9202. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
