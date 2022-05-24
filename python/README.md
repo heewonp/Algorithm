@@ -149,3 +149,4 @@
 - [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [7569. 토마토](https://www.acmicpc.net/problem/7569)
 - [9202. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+- [2468. 안전 영역](https://www.acmicpc.net/problem/2468)
