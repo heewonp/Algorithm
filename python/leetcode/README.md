@@ -53,3 +53,5 @@
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 - [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 - [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+- [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
