@@ -23,3 +23,4 @@
 - [9202. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
 - [2468. 안전 영역](https://www.acmicpc.net/problem/2468)
 - [14503. 로봇 청소기](https://www.acmicpc.net/problem/14503)
+- [1427. 소트인사이드](https://www.acmicpc.net/problem/1427)
