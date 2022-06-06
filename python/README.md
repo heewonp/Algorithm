@@ -59,6 +59,7 @@
 - [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 ## 프로그래머스
 
 ### 푼문제
