@@ -24,3 +24,5 @@
 - [2468. 안전 영역](https://www.acmicpc.net/problem/2468)
 - [14503. 로봇 청소기](https://www.acmicpc.net/problem/14503)
 - [1427. 소트인사이드](https://www.acmicpc.net/problem/1427)
+- [12904. A와 B](https://www.acmicpc.net/problem/12904)
+- [1543. 문서검색](https://www.acmicpc.net/problem/1543)
