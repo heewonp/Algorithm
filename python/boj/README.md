@@ -27,3 +27,4 @@
 - [12904. A와 B](https://www.acmicpc.net/problem/12904)
 - [1543. 문서검색](https://www.acmicpc.net/problem/1543)
 - [11404. 플로이드](https://www.acmicpc.net/problem/11404)
+- [1956. 운동](https://www.acmicpc.net/problem/1956)
