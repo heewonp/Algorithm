@@ -67,3 +67,4 @@
 - [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+- [쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)
