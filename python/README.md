@@ -135,6 +135,7 @@
 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
 - [쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)
 - [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
+- [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 
 ## 백준
 
@@ -168,3 +169,4 @@
 - [1543. 문서검색](https://www.acmicpc.net/problem/1543)
 - [11404. 플로이드](https://www.acmicpc.net/problem/11404)
 - [1956. 운동](https://www.acmicpc.net/problem/1956)
+- [11003. 최솟값찾기](https://www.acmicpc.net/problem/11003)

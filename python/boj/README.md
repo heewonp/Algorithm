@@ -28,3 +28,4 @@
 - [1543. 문서검색](https://www.acmicpc.net/problem/1543)
 - [11404. 플로이드](https://www.acmicpc.net/problem/11404)
 - [1956. 운동](https://www.acmicpc.net/problem/1956)
+- [11003. 최솟값찾기](https://www.acmicpc.net/problem/11003)
