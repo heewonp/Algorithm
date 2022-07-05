@@ -32,3 +32,4 @@
 - [1927. 최소힙](https://www.acmicpc.net/problem/1927)
 - [11279. 최대힙](https://www.acmicpc.net/problem/11279)
 - [7568. 덩치](https://www.acmicpc.net/problem/7568)
+- [1138. 한줄로서기](https://www.acmicpc.net/problem/1138)
