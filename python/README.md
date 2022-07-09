@@ -176,3 +176,4 @@
 - [1138. 한줄로서기](https://www.acmicpc.net/problem/1138)
 - [10828. 스택](https://www.acmicpc.net/problem/10828)
 - [10773. 제로](https://www.acmicpc.net/problem/10773)
+- [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
