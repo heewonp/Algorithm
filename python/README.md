@@ -177,3 +177,4 @@
 - [10828. 스택](https://www.acmicpc.net/problem/10828)
 - [10773. 제로](https://www.acmicpc.net/problem/10773)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
+- [2493. 탑](https://www.acmicpc.net/problem/2493)
