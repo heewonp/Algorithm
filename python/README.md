@@ -178,3 +178,4 @@
 - [10773. 제로](https://www.acmicpc.net/problem/10773)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [2493. 탑](https://www.acmicpc.net/problem/2493)
+- [1406. 에디터](https://www.acmicpc.net/problem/1406)
