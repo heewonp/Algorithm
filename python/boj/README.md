@@ -37,4 +37,9 @@
 - [10773. 제로](https://www.acmicpc.net/problem/10773)
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [2493. 탑](https://www.acmicpc.net/problem/2493)
+<<<<<<< HEAD
 - [1406. 에디터](https://www.acmicpc.net/problem/1406)
+=======
+- [17298. 오큰수](https://www.acmicpc.net/problem/17298)
+- [1158. 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+>>>>>>> 86cdd062ca9861703e6526f536b8207b2f8823f1
