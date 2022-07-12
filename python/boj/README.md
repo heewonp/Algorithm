@@ -38,3 +38,4 @@
 - [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
 - [2493. 탑](https://www.acmicpc.net/problem/2493)
 - [17298. 오큰수](https://www.acmicpc.net/problem/17298)
+- [1158. 요세푸스 문제](https://www.acmicpc.net/problem/1158)
