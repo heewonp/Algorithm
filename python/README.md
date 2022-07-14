@@ -182,3 +182,4 @@
 - [1158. 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [1406. 에디터](https://www.acmicpc.net/problem/1406)
 - [10866. 덱](https://www.acmicpc.net/problem/10866)
+- [1021. 회전하는큐](https://www.acmicpc.net/problem/1021)
