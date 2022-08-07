@@ -136,6 +136,7 @@
 - [쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)
 - [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 
 ## 백준
 
